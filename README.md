@@ -2,10 +2,6 @@
 
 PCNEX is an innovative project aimed at automating the creation of public tender notices using advanced artificial intelligence techniques. This repository contains the original version of the project developed by Francisco Ricardo Taborda Aguiar as part of his undergraduate thesis at the Federal University of Paraná in 2006. The project was initially implemented using Jess, a rule engine for the Java platform.
 
-## Project Background
-
-This repository includes the complete undergraduate thesis, the source code written in Jess, and all related materials.
-
 ## Abstract
 
 The project is an expert system built using the JESS (Java Expert System Shell) language to create public tender notices. The software employs AI techniques to produce accurate and consistent public competition notices. Its primary goal is to address the challenges of generating these announcements for the Nucleus of Competitions at the Federal University of Paraná. The production rules used by the system were developed based on interviews with a human expert, ensuring the system mirrors expert decision-making. Through a user-friendly interface, the software collects relevant information about the competition and applies a set of interconnected rules to the data and facts. As a result, the system generates a fully structured and completed tender notice file.
@@ -25,8 +21,6 @@ The project is an expert system built using the JESS (Java Expert System Shell) 
 - Preserve and document the original Jess-based implementation of the expert system.
 - Facilitate the transition to a more modern implementation using CLIPS.
 - Provide a comprehensive resource for understanding and developing expert systems for public competition notices.
-
-Explore the original work and join us as we continue to advance and modernize this project with the power of AI and expert systems!
 
 ## Links
 
