@@ -1,7 +1,5 @@
 # Public Competition Notice Expert System (PCNEX)
 
-Welcome to the Public Competition Notice Expert System (PCNEX) repository!
-
 PCNEX is an innovative project aimed at automating the creation of public tender notices using advanced artificial intelligence techniques. This repository contains the original version of the project developed by Francisco Ricardo Taborda Aguiar as part of his undergraduate thesis at the Federal University of Paraná in 2006. The project was initially implemented using Jess, a rule engine for the Java platform.
 
 ## Project Background
@@ -33,6 +31,4 @@ Explore the original work and join us as we continue to advance and modernize th
 ## Links
 
 https://acervodigital.ufpr.br/xmlui/handle/1884/80720
-https://acervodigital.ufpr.br/xmlui/handle/1884/80720?show=full
-
-doi: https://hdl.handle.net/1884/80720
+https://hdl.handle.net/1884/80720
