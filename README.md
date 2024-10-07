@@ -30,5 +30,6 @@ Explore the original work and join us as we continue to advance and modernize th
 
 ## Links
 
-https://acervodigital.ufpr.br/xmlui/handle/1884/80720
-https://hdl.handle.net/1884/80720
+`https://acervodigital.ufpr.br/xmlui/handle/1884/80720`
+
+`https://hdl.handle.net/1884/80720`
